@@ -58,7 +58,7 @@ The tutorial environment, containing both two above requirements, is specified
 in the `environment.yml` file found in this repository. It can be installed via
 [conda](https://docs.conda.io/en/latest/) with the following command:
 ```
-conda env create
+$ conda env create
 ```
 
 If local installation is challenging or impossible, you can access this environment
