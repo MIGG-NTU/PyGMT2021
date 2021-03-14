@@ -1,6 +1,6 @@
 # PyGMT Tutorial in 2021
 
-An preliminary introduction to [PyGMT](https://www.pygmt.org/) for MIG members.
+A preliminary introduction to [PyGMT](https://www.pygmt.org/) for MIG members.
 
 ## Installation instructions
 
