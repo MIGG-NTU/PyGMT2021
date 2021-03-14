@@ -1,0 +1,9 @@
+name: pygmt2021
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - conda-forge::gmt=6.1.1
+  - conda-forge::jupyterlab=3.0
+  - conda-forge::pygmt=0.3.0
+  - conda-forge::python=3.9
