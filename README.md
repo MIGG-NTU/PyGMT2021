@@ -71,5 +71,6 @@ notebooks) often!** 🚨
 ## Reference tutorial material
 
 - [PyGMT tutorial submission for SciPy 2021](https://github.com/GenericMappingTools/scipy2021)
+- [PyGMT course at the UAF Geophysical Institute 2021](https://github.com/liamtoney/gi-pygmt-2021)
 - [PyGMT tutorial at ROSES 2020](https://github.com/fdannemanndugick/roses2020/tree/master/unit08)
 - [PyGMT workshop at FOSS4G Oceania 2019](https://github.com/GenericMappingTools/foss4g2019oceania)
